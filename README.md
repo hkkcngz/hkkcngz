@@ -1,8 +1,5 @@
 ### Hi there 👋
-
-<!--
-**hkkcngz/hkkcngz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+✨
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on KODFU
@@ -11,4 +8,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: hakki.app
 - 😄 Pronouns: human
 - ⚡ Fun fact: ooooO
--->
+
+✨
+![Image of My Stats - Hakkı Cengiz](https://raw.githubusercontent.com/hkkcngz/stats/master/generated/languages.svg?token=AEYE5DL3CHT7CHVVGHPNMTDAFE5CU)
+✨
+![Image of My Stats - Hakkı Cengiz](https://raw.githubusercontent.com/hkkcngz/stats/master/generated/overview.svg?token=AEYE5DM7RGOCWQPH5T2SNE3AFE5FA)
+✨
