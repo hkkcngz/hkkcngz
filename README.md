@@ -13,3 +13,5 @@
 ✨
 ![Image of My Stats - Hakkı Cengiz](https://raw.githubusercontent.com/hkkcngz/stats/master/generated/overview.svg?token=AEYE5DM7RGOCWQPH5T2SNE3AFE5FA)
 ✨
+
+[![HitCount](http://hits.dwyl.com/hkkcngz/hkkcngz.svg)](http://hits.dwyl.com/hkkcngz/hkkcngz)
