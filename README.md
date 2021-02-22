@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ooooO
 
 ✨
-![Image of My Stats - Hakkı Cengiz](https://raw.githubusercontent.com/hkkcngz/stats/master/generated/languages.svg?token=AEYE5DL3CHT7CHVVGHPNMTDAFE5CU)
+![My Stats - Hakkı Cengiz](https://github-readme-stats.vercel.app/api?username=hkkcngz&show_icons=true&theme=radical)
 ✨
 ![Image of My Stats - Hakkı Cengiz](https://raw.githubusercontent.com/hkkcngz/stats/master/generated/overview.svg?token=AEYE5DM7RGOCWQPH5T2SNE3AFE5FA)
 ✨
