@@ -11,7 +11,7 @@
 ✨
 ![My Stats - Hakkı Cengiz](https://github-readme-stats.vercel.app/api?username=hkkcngz&show_icons=true&theme=radical)
 ✨
-![Image of My Stats - Hakkı Cengiz](https://raw.githubusercontent.com/hkkcngz/stats/master/generated/overview.svg?token=AEYE5DM7RGOCWQPH5T2SNE3AFE5FA)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkkcngz&layout=compact)](https://github.com/hkkcngz/github-readme-stats)
 ✨
 
 ![](https://komarev.com/ghpvc/?username=hkkcngz)
