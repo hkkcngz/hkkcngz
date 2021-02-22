@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ooooO
 
 ✨
-![My Stats - Hakkı Cengiz](https://github-readme-stats.vercel.app/api?username=hkkcngz&show_icons=true&theme=tokyonight)
+![My Stats - Hakkı Cengiz](https://github-readme-stats.vercel.app/api?username=hkkcngz&show_icons=true&theme=dark)
 ✨
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkkcngz&layout=compact)](https://github.com/hkkcngz/github-readme-stats)
 ✨
