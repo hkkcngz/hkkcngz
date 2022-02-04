@@ -1,9 +1,9 @@
 ### Hi there 👋
 ✨
 
-- 🔭 I’m currently open to work in Frontend or Wordpress Developer position
-- 🌱 I’m currently learning React, NodeJS
-- 💬 Ask me about Frontend & Wordpress.
+- 🔭 I’m currently work on Android Developer position.
+- 🌱 I started with Web Development and now I'm progressing in Mobile Development. I'm on the Full Stack developer path.
+- 💬 Ask me about Frontend (CSS, React), Wordpress Development & PHP and Android.
 - 📫 How to reach me: hakki.app
 - 😄 Pronouns: human
 - ⚡ Fun fact: ooooO
