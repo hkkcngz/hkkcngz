@@ -1,7 +1,7 @@
 ### Hi there 👋
 ✨
 
-- 🔭 I’m currently work on Android Developer position.
+- 🔭 I’m currently work on Android Developer position. Java -> Kotlin. 
 - 🌱 I started with Web Development and now I'm progressing in Mobile Development. I'm on the Full Stack developer path.
 - 💬 Ask me about Frontend (CSS, React, PWA), Wordpress Development & PHP and Android.
 - 📫 How to reach me: hakki.app
