@@ -18,4 +18,4 @@
 
 
 ### Blog
-- [Build Gradle]([https://www.google.com](https://hakkicengiz.medium.com/android-build-gradle-groovy-3c3764a1d8a5))
+- [Build Gradle](https://hakkicengiz.medium.com/android-build-gradle-groovy-3c3764a1d8a5)
