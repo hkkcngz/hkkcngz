@@ -19,3 +19,7 @@
 
 ### Blog
 - [Build Gradle](https://hakkicengiz.medium.com/android-build-gradle-groovy-3c3764a1d8a5)
+
+
+### Linkedin
+- [Linkedin](https://www.linkedin.com/in/hkkcngz/)
