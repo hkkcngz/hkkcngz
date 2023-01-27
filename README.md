@@ -25,4 +25,3 @@
 - [Linkedin](https://www.linkedin.com/in/hkkcngz/)
 
 ![imza](https://raw.githubusercontent.com/hkkcngz/hkkcngz/main/signature.svg)
-<img src="https://raw.githubusercontent.com/hkkcngz/hkkcngz/main/signature.svg">
