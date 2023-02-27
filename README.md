@@ -24,4 +24,4 @@
 ### Contact
 - [Linkedin](https://www.linkedin.com/in/hkkcngz/)
 
-![imza](https://raw.githubusercontent.com/hkkcngz/hkkcngz/main/signature.svg)
+![imza](https://raw.githubusercontent.com/hkkcngz/hkkcngz/main/handwriting.svg)
