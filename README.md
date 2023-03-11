@@ -25,3 +25,5 @@
 - [Linkedin](https://www.linkedin.com/in/hkkcngz/)
 
 ![imza](https://raw.githubusercontent.com/hkkcngz/hkkcngz/main/handwriting.svg)
+
+![If in doubt Meriadoc, Console.Log your code.](https://github.com/hkkcngz/hkkcngz/blob/main/fun.png?raw=true)
