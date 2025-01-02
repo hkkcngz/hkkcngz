@@ -1,9 +1,9 @@
 ### Hi there 👋
 ✨
 
-- 🔭 I’m currently work on Android Developer position. Java -> Kotlin. 
-- 🌱 I started with Web Development and now I'm progressing in Mobile Development. I'm on the Full Stack developer path.
-- 💬 Ask me about Frontend (CSS, React, PWA), Wordpress Development & PHP and Android.
+- 🔭 I’m currently working as Full-Stack Developer on fintech company. 
+- 🌱 I started with Web Development and then I progressed in Mobile Development. Now I am on the Sr. Full Stack Developer path.
+- 💬 Ask me about Frontend (CSS, React, PWA), Javascript, Wordpress Development & PHP and Android (java).
 - 📫 How to reach me: hakki.app
 - 😄 Pronouns: human
 - ⚡ Fun fact: ooooO
